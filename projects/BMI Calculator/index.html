@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>bmi calculator</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.min.css" />
+    <style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+
+<body>
+    <section class="hero is-primary">
+        <div class="hero-body">
+            <div class="container">
+                <h1 class="title">
+                    BMI CALCULATOR
+                </h1>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+
+            <article class="media">
+                <div class="media-content">
+                    <div class="content">
+                        <h3> About Calculator : </h3>
+                        <p>The Body Mass Index (BMI) Calculator can be used to calculate BMI value and corresponding weight status while taking age into consideration.
+                        </p>
+                    </div>
+                </div>
+            </article>
+            <p>
+                </p><hr>
+                <article class="media">
+                    <div class="media-content">
+                        <div class="content">
+                            <h3> BMI Introduction : </h3>
+                            <p>BMI is a measurement of a person's leanness or corpulence based on their height and weight,
+                                and is intended to quantify tissue mass. It is widely used as a general indicator of whether
+                                a person has a healthy body weight for their height. Specifically, the value obtained from the
+                                calculation of BMI is used to categorize whether a person is underweight, normal weight, overweight,
+                                or obese depending on what range the value falls between. These ranges of BMI vary based on factors
+                                such as region and age, and are sometimes further divided into subcategories such as severely underweight
+                                or very severely obese. Being overweight or underweight can have significant health effects, so while BMI
+                                is an imperfect measure of healthy body weight, it is a useful indicator of whether any additional testing or
+                                action is required.
+                            </p><hr>
+                            <h3>BMI Table:</h3>
+                            <p> This is the World Health Organization's (WHO) recommended body weight based on BMI values for adults. It is used for both men and women, age 18 or older.</p>
+                            <table>
+                                  <tr>
+                                    <th>Category</th>
+                                    <th>BMI range - kg/m*2</th>
+                                  </tr>
+                                  <tr>
+                                    <td>Severe Thinness</td>
+                                    <td>< 16</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Moderate Thinness</td>
+                                    <td>16 - 17</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Mild Thinness</td>
+                                    <td>17 - 18.5</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Normal</td>
+                                    <td>18.5 - 25</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Overweight</td>
+                                    <td>25 - 30</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Obese Class I</td>
+                                    <td>30 - 35</td>
+                                  </tr>
+                                   <tr>
+                                    <td>Obese Class II</td>
+                                    <td>35 - 40</td>
+                                  </tr>
+                                   <tr>
+                                    <td>Obese Class III</td>
+                                    <td>> 40</td>
+                                  </tr>
+                                </table>
+                            <hr>
+
+
+                      <h3> Snippets :</h3>
+                            <img src = "b1.png"><hr>
+
+                            <img src="b2.png">
+                            <hr>
+
+
+                        </div>
+                           <button onclick="goBack()">Back</button>
+
+                                                    <script>
+                                                    function goBack() {
+                                                      window.history.back();
+                                                    }
+                                                    </script>
+                    </div>
+                </article>
+
+
+
+        </div>
+
+    </section>
+    <footer class="footer">
+    </footer>
+</body>
+
+</html>

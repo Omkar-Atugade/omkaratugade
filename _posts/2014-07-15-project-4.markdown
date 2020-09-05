@@ -1,0 +1,73 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: game.png
+alt: image-alt
+project-date: May 2020 - Present
+client: 
+category: Games 
+description: This are few games developed by me.
+---
+
+
+
+<h3>Games: </h3>
+<hr>
+<ul>
+<li><a href="#tttgame"><h4>Tic Tac Toe Game</h4></a>
+<hr>
+<p>
+This is a simple tic tac toe game developed in python.
+</p>
+<hr>
+
+**Source Code**:  <span><a href="https://github.com/Omkar-Atugade/Tic--Tac-Toe-Game">Github</a></span><br>
+<br>
+
+**Know More**: <span><a href="/projects/Tic Tac Toe/index.html">Click Here</a></span>
+<br>
+<br>
+**Technology Used**: Python
+</li>
+<br>
+<hr>     
+
+<li><a href="#snakegame"><h4>Classic Snake Game</h4></a>
+<hr>
+<p>
+This is a sanke game developed in javascript.
+</p>
+<hr>
+
+**Source Code**:  <span><a href="https://github.com/Omkar-Atugade/Snake-Game">Github</a></span><br>
+<br>
+
+**Know More**: <span><a href="/projects/snake/index.html">Click Here</a></span>
+<br>
+<br>
+**Technology Used**: JavaScript
+</li>
+<br>
+<hr>     
+
+<li><a href="#bbgame"><h4>Bouncing Ball Game</h4></a>
+<hr>
+<p>
+This is a simple bouncing ball game developed in python.
+</p>
+<hr>
+
+**Source Code**:  <span><a href="https://github.com/Omkar-Atugade/Bouncing-Ball-Game">Github</a></span><br>
+<br>
+
+**Know More**: <span><a href="/projects/bouncing ball/index.html">Click Here</a></span>
+<br>
+<br>
+**Technology Used**: Python
+</li>
+<br>
+<hr>     
+ 
+</ul>
+

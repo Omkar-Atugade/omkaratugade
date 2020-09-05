@@ -1,0 +1,161 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: cake.png
+alt: image-alt
+project-date: April 2020 - May 2020
+client:
+category : Python Mini-Projects
+description: This are some python projects i have completed while learning python.
+---
+
+<h3>Python Projects : </h3>
+<hr>
+<ul>
+<li><a href="#"><h4>Life in Game </h4></a>
+<hr>
+<p>
+This project basically explains, while playing games, how we get health according to the difficulty level we have selected.
+</p>
+<hr>
+
+**Source Code**:  <span><a href="https://github.com/Omkar-Atugade/Python-Projects">Github</a></span><br>
+<br>
+
+**Know More**: <span><a href="/projects/Python Projects/p1/index.html">Click Here</a></span>
+<br>
+<br>
+**Technology Used**: Python
+</li>
+<br>
+<hr>     
+
+<li><a href="#"><h4>Introduction of You</h4></a>
+<hr>
+<p>
+In this project, program gets basic inforamtion from you and deliver a nice paragraph about you as an output.
+</p>
+<hr>
+
+**Source Code**:  <span><a href="https://github.com/Omkar-Atugade/Python-Projects">Github</a></span><br>
+<br>
+
+**Know More**: <span><a href="/projects/Python Projects/p2/index.html">Click Here</a></span>
+<br>
+<br>
+**Technology Used**: Python
+</li>
+<br>
+<hr>     
+
+<li><a href="#"><h4>Email Slicer </h4></a>
+<hr>
+<p>
+This projects get your email id from you and tells you, your name and your doamin name.
+</p>
+<hr>
+
+**Source Code**:  <span><a href="https://github.com/Omkar-Atugade/Python-Projects">Github</a></span><br>
+<br>
+
+**Know More**: <span><a href="/projects/Python Projects/p3/index.html">Click Here</a></span>
+<br>
+<br>
+**Technology Used**: Python
+</li>
+<br>
+<hr>    
+
+<li><a href="#"><h4>Travis </h4></a>
+<hr>
+<p>
+Project Travis is basically a ridiculous security system.
+</p>
+<hr>
+
+**Source Code**:  <span><a href="https://github.com/Omkar-Atugade/Python-Projects">Github</a></span><br>
+<br>
+
+**Know More**: <span><a href="/projects/Python Projects/p4/index.html">Click Here</a></span>
+<br>
+<br>
+**Technology Used**: Python
+</li>
+<br>
+<hr>    
+
+<li><a href="#"><h4>Cinema Simulator</h4></a>
+<hr>
+<p>
+Cinema simulator gives the number of available tickets and restriction age of cinema you choose to watch.
+</p>
+<hr>
+
+**Source Code**:  <span><a href="https://github.com/Omkar-Atugade/Python-Projects">Github</a></span><br>
+<br>
+
+**Know More**: <span><a href="/projects/Python Projects/p5/index.html">Click Here</a></span>
+<br>
+<br>
+**Technology Used**: Python
+</li>
+<br>
+<hr>    
+
+<li><a href="#"><h4>Baby Conversation Simulator</h4></a>
+<hr>
+<p>
+In this project, program keeps asking some stupid question like small baby until it gets that particular answer.
+</p>
+<hr>
+
+**Source Code**:  <span><a href="https://github.com/Omkar-Atugade/Python-Projects">Github</a></span><br>
+<br>
+
+**Know More**: <span><a href="/projects/Python Projects/p6/index.html">Click Here</a></span>
+<br>
+<br>
+**Technology Used**: Python
+</li>
+<br>
+<hr>    
+
+<li><a href="#"><h4>Pig Latin Translator</h4></a>
+<hr>
+<p>
+Pig latin translator translate your input to funny pig latin.
+</p>
+<hr>
+
+**Source Code**:  <span><a href="https://github.com/Omkar-Atugade/Python-Projects">Github</a></span><br>
+<br>
+
+**Know More**: <span><a href="/projects/Python Projects/p7/index.html">Click Here</a></span>
+<br>
+<br>
+**Technology Used**: Python
+</li>
+<br>
+<hr>    
+
+<li><a href="#"><h4>Make your own Bank.!</h4></a>
+<hr>
+<p>
+This program works like bank and you can perfom some basic operations such as debit and credit.
+</p>
+<hr>
+
+**Source Code**:  <span><a href="https://github.com/Omkar-Atugade/Python-Projects">Github</a></span><br>
+<br>
+
+**Know More**: <span><a href="/projects/Python Projects/p8/index.html">Click Here</a></span>
+<br>
+<br>
+**Technology Used**: Python
+</li>
+<br>
+<hr>    
+     
+</ul>
+
